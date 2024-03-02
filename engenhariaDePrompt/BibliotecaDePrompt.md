@@ -2,6 +2,8 @@
 
 ## Entendendo um estilo de prompt:
 
+### Contador de Histórias
+
 **Definindo a persona:**
 Quero que você atue como um contador de histórias. 
 
