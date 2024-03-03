@@ -159,11 +159,71 @@ Cusiodidades dos modelos de Linguagens:
 > Parece que estamos apenas no começo quando se trata de modelos de linguagem e IA. Então aprender como aproveitar esse dados Engenharia de Prompt parece ser uma jogada inteligente para qualquer pessoa hoje.
 
 ---
-#### (14:35)Mentalidade de Engenharia de Prompt
+#### Mentalidade de Engenharia de Prompt
+
+Envolve a compreensão profunda das capacidades e limitações do modelo, assim como a habilidade de formular perguntas e comandos de forma precisa para obter os resultados desejados.
+
+>Esta mentalidade encoraja a experimentação, a iteração e o **refinamento contínuo**, capacitando os usuários a extrair o máximo valor e utilidade das tecnologias de IA.
+
+"Roube como um Artísta". Faça pesquisas, crie bibliotecas compartilhadas de prompts, baixe, experimemte, experimente, experimente...
+
 
 ---
-#### ⌨️ (15:38) Usando GPT-4\
-#### ⌨️ (20:41) Melhores práticas\
+#### Usando GPT-4\
+
+Cadastre-se:
+https://openai.com/
+
+Vamos começar com perguntas simples:
+> Quando é 4 + 4 ?
+
+Para testar a capacidade linguśtica do modelo, podemos tentar fazer a mesma pergunta de outras formas:
+
+> Qual é o resultado de 4 mais 4 ?
+
+>  Quanto é quatro mais quatro?
+
+... e assim por diante
+
+Tente interagir,
+
+> Ótimo. Agora adicione mais cinco ao resultado. 
+
+O modelo continuará respondendo levanco em consideração o histórico da conversa, ou seja, o contexto.
+
+
+> Para Calcular os Tokens utilizados:  
+https://platform.openai.com/tokenizer
+
+
+---
+#### Melhores práticas
+
+>Um equívoco sobre Engenharia de Prompt é pensar que é um trabalho fácil e sem nenhuma ciência.
+
+Para criar um bom Prompt, considere as seguintes possibilidades:
+* Instruções claras
+* Adote uma Persona
+* Especifique o formato da resposta (como, por exemplo, prompts interativos)
+* Limite o escopo das respostas
+
+Exemplo:
+```
+Quando é a eleição?
+```
+Isso pressupõe que o modelo saiba de qual eleição estamos falando. Isso pode gerar frustrações
+
+Resposta:
+```
+Desculpe, mas não consigo fornecer informações específicas sobre eleições sem mais contexto. Poderia me fornecer mais detalhes sobre a eleição à qual está se referindo?
+```
+
+
+
+
+
+---
+
 #### ⌨️ (31:20) Zero-Shot e Few-Shot Prompts\
 #### ⌨️ (35:06) Alucinações de IA\
 #### ⌨️ (36:43) Vetores/incorporação de texto\
