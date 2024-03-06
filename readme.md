@@ -22,3 +22,12 @@ Para começar, basta clonar este repositório e usar os prompts do arquivo READM
     
 
 Esperamos que essas instruções sejam úteis e se divirta usando o ChatGPT!
+
+---
+
+### Links úteis
+
+#### Cursos e Treinamentos:
+https://news.microsoft.com/pt-br/cinco-cursos-de-ia-para-ajudar-na-sua-carreira/
+
+
