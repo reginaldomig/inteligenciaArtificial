@@ -18,6 +18,15 @@ Considerações: Funciona melhor em Inglês
 
 ---
 
+#### Gerador de Imagens
+
+Avatar e Tratamento de imagens
+https://lensa.app/
+
+Fluxogramas
+https://excalidraw.com/
+
+
 #### Pesquisas na Internet
 
 https://www.perplexity.ai/
