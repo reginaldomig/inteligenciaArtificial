@@ -1,12 +1,16 @@
-# Prompts que deram certo
+# Grupo Financ.IA
 
-## Grupo Financ.IA
+## Automatização do Lançamento de Notas Fiscais via XML
 
-### Lançamemto NF Via XML (VBA)
-**Marcos Santtos**
-Oi Pessoal, bom dia. Quero dar um depoimento do que aconteceu comigo, temos uma atividade aqui na empresa onde tinhamos que lançar as notas no sistema para regularizar uma saida de banco, não tinha análise em si, só tinhamos que subir o PDF e lançar algumas informações no sistema, porém o volume era muito alto, cerca de 60 notas ao dia e perdiamos meio período de trabalho, mas graças a esse grupo, pensei na possibilidade de automatizar esse processo, portanto por ser um sistema e que aceita um Xml personalizado eu perguntei ao Gemini que não conseguiu me ajudar a estruturar a criação do xml da maneira que eu gostaria, mas o GPT sim conseguiu e agora o processo esta bem estruturado e funcionando de acordo, agora so temos que gerar o Xml de cada linha de uma planilha, pegar esses xml e os PDF e mandar por email para o sistema realizar o lançamento de forma automática! Compartilhei isso com meu Gestor e CFO e eles ficaram impressionados e claro que dei ao mérito a esse grupo que fez com que eu pensasse fora da caixa 👏🏼👏🏼👏🏼 muito obrigado à todos pelo insights e percebi que tudo que fazemos é possível automatizar 🚀🚀
+*Por Marcos Santtos*
 
-Link do Prompt:
+Olá pessoal, bom dia! Gostaria de compartilhar uma experiência que tive recentemente. Na empresa em que trabalho, tínhamos uma tarefa recorrente de lançar notas fiscais no sistema para regularizar saídas bancárias. Não envolvia análises complexas, apenas a inserção de informações a partir de PDFs, mas o volume de trabalho era considerável, cerca de 60 notas por dia. Perdíamos um tempo valioso nesse processo, até que decidi buscar uma solução.
+
+Graças a este grupo, surgiu a ideia de automatizar essa tarefa. Nosso sistema aceita XML personalizado, então recorri ao Gemini, que infelizmente não conseguiu me ajudar a estruturar o XML conforme necessário. Porém, o GPT conseguiu! Agora, o processo está bem definido e funcional. Só precisamos gerar o XML de cada linha de uma planilha, enviar esses XMLs junto com os PDFs por e-mail, e o sistema faz o lançamento de forma automática!
+
+Compartilhei essa conquista com meu gestor e CFO, e ambos ficaram impressionados. É claro que atribuí todo mérito a este grupo que me fez pensar fora da caixa. Muito obrigado a todos pelos insights! Percebi que quase tudo que fazemos pode ser automatizado. Vamos em frente, rumo à eficiência! 👏🏼👏🏼👏🏼🚀🚀
+
+Link para o Prompt
 https://chat.openai.com/share/7451316e-9ba4-4346-aebf-13cd50bfc88c
 
 ---
