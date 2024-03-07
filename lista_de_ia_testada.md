@@ -20,11 +20,18 @@ Considerações: Funciona melhor em Inglês
 
 #### Gerador de Imagens
 
-Avatar e Tratamento de imagens
+Stable diffusion (pago)
+https://stablediffusionweb.com/
+
+Avatar e Tratamento de imagens (pago)
 https://lensa.app/
 
 Fluxogramas
 https://excalidraw.com/
+
+Cuebric (Uso industrial)
+https://cuebric.com/
+(Para criação de plano de fundo virtual de Hollywood)
 
 
 #### Pesquisas na Internet
@@ -59,7 +66,7 @@ Considerações:
 
 ---
 
-### Geração de Videos
+#### Geração de Videos
 
 https://www.heygen.com/
 
@@ -69,7 +76,7 @@ Considerações:
 
 ---
 
-### Gerador de Música
+#### Gerador de Música
 
 https://www.suno.ai/
 
@@ -78,3 +85,7 @@ Preço de uso:
 Considerações:
 
 --- 
+
+#### Analise de dados
+
+https://www.breadcrumb.ai/solutions
