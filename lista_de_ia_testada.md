@@ -89,3 +89,9 @@ Considerações:
 #### Analise de dados
 
 https://www.breadcrumb.ai/solutions
+
+---
+
+## Criação de Avatar
+
+https://aiapp-pt.vidnoz.com
